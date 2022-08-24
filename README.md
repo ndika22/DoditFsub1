@@ -1,4 +1,4 @@
-# # Dodit fsub
+# Dodit fsub
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 p align="center">
